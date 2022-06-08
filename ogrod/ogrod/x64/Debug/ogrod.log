@@ -1,0 +1,5 @@
+﻿  osn.cpp
+C:\Users\Илья\Desktop\farm c++\ogrod\ogrod\osn.cpp(431,16): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Илья\Desktop\farm c++\ogrod\ogrod\osn.cpp(108,6): warning C4101: pol: неиспользованная локальная переменная
+C:\Users\Илья\Desktop\farm c++\ogrod\ogrod\osn.cpp(98,6): warning C4101: sost: неиспользованная локальная переменная
+  ogrod.vcxproj -> C:\Users\Илья\Desktop\farm c++\ogrod\x64\Debug\ogrod.exe
